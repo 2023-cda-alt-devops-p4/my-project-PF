@@ -48,7 +48,12 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 
 * ### Entreprise : LicenSync
 
-* ### Logo : 
+* ### Logos :
+<img src="assets/logos/logo-full.png">
+<img src="assets/logos/logo-short.png">
+<img src="assets/logos/logo-naked.png">
+<img src="assets/logos/brand-full.png">
+<img src="assets/logos/brand-short.png">
 
 * ### Slogan : "Empowering artists, one block at a time"
 
@@ -57,7 +62,44 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 
 
 ## Stack technique
-
+* Maquettage : Figma
+* Modélisation : Looping/Visual Paradigm
+* Frontend : Angular/Angular Material
+* Backend : ASP.NET Core
+* Base de données : SQL Server
+* Blockchain : Solidity, Ethereum
+* Paiement : Stripe
+* CI/CD : 
+  * CI : Docker
+  * CD : GitHub Actions
+* Sécurité : 
+  * 2FA : SendGrid (email), Twilio (SMS)
+  * Token : JWT
+  * Certificat SSL : Let's Encrypt
+  * RBAC : Microsoft.AspNetCore.Authorization
+  * Chiffrement mots de passe : bcrypt via Microsoft.AspNetCore.Identity
+  * Validation des données entrante :
+    * Coté serveur : Data Annotations
+    * Coté Client : Angular Forms
+  * XSS : encodeurs et CSP
+  * CSRF : tokens anti-CSRF intégrés à ASP.NET Core
+  * Journalisation : Serilog ou NLog
+  * Monitoring : 
+    * Coté app : Application Insights
+    * Coté infra : AWS CloudWatch, Grafana
+  * Web Application Firewall : Cloudflare, AWS WAF, Barracuda WAF
+  * Rate Limiting : AspNetCoreRateLimit
+* Tests :
+  * Tests Unitaire : 
+    * ASP.NET Core : xUnit
+    * Angular : Jasmine
+  * Tests d'intégration :
+    * ASP.NET Core : xUnit avec TestServer
+    * Angular : Protractor
+  * Tests d'acceptance : Selenium, Cypress
+  * Tests de performance : Appache JMeter
+  * Tests de sécurité : OWASP ZAP
+  * Automatisation : xUnit, Jest...
 
 
 ## Diagramme d'architecture
