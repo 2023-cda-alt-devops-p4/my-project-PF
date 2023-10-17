@@ -66,8 +66,8 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 * Bénéfices : validation formation, montée en compétences en conception, développement, web sécurité, DevOps, blockchain
 
 ### Echéances : 
-* Date de démarrage : 18/10/2023
-* Date de livraison : janvier 2025
+* Date de démarrage : 18/10/2023.
+* Date de livraison : janvier 2025 (12 semaines de travail).
 
 ### Acteurs :
 
@@ -90,6 +90,8 @@ L'objectif de LicenSync est de permettre aux artistes indépendants de protéger
   * Fonction de hash.
   * Stockage des données.
   * Technologie blockchain.
+* Gestion des paiements pour le premium :
+  * Plateforme de paiement en ligne.
 * Administration :
   * L'administrateur peut, si non respect des règles d'utilisation, suspendre l'activité d'un compte.
 
