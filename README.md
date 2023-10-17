@@ -139,4 +139,4 @@ L'objectif de LicenSync est de permettre aux artistes indépendants de protéger
 
 ## Diagramme d'architecture
 
-<img src="assets/diagram/architecture_diagram.jpg">
+<img src="assets/diagram/architecture_diagram.jpg" alt="architecture diagram">
