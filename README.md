@@ -49,11 +49,11 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 * ### Entreprise : LicenSync
 
 * ### Logos :
-<img src="assets/logos/logo-full.png">
-<img src="assets/logos/logo-short.png">
-<img src="assets/logos/logo-naked.png">
-<img src="assets/logos/brand-full.png">
-<img src="assets/logos/brand-short.png">
+<img src="assets/logos/logo-full.png" alt="logo with brand name 'LicenSync' and short description 'block-licensing'">
+<img src="assets/logos/logo-short.png" alt="logo with brand name 'LicenSync'">
+<img src="assets/logos/logo-naked.png" alt="LicenSync logo">
+<img src="assets/logos/brand-full.png" alt="Brand name 'LicenSync' and short description 'block-licensing'">
+<img src="assets/logos/brand-short.png" alt="Brand name 'LicenSync'">
 
 * ### Slogan : "Empowering artists, one block at a time"
 
