@@ -59,6 +59,39 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 
 ## Expression des besoins
 
+### Context :
+* Projet de fin de formation CDA
+* Individuelle, collaboration avec la promo, formateurs
+* Ressources : Ordinateur pro, suite JetBrains, formations en ligne, ChatGPT, internet en général...
+* Bénéfices : validation formation, montée en compétences en conception, développement, web sécurité, DevOps, blockchain
+
+### Echéances : 
+* Date de démarrage : 18/10/2023
+* Date de livraison : janvier 2025
+
+### Acteurs :
+
+* Artistes musicaux indépendants désireux de protéger sa musiquedans un premier temps.
+* Pouvoir d'achat limité, tarif à prévoir en fonction des tarifs de cloud storage notamment.
+* Public technologiquement mature.
+* Application potentiellement internationale
+* Evolution possible dans le futur, via une marketplace, vers les créateurs de contenu, publicitaires, vidéastes, journalistes... toute personne cherchant de la musique sous licence.
+
+### Besoins fonctionnels : 
+
+L'objectif de LicenSync est de permettre aux artistes indépendants de protéger leurs création via la blockchain
+
+* Gestion des utilisateurs :
+  * Inscription.
+  * Connection.
+  * Gestion des données utilisateurs conforme au RGPD
+* Gestion des fichiers :
+  * Upload de fichiers mp3 et .jpg.
+  * Fonction de hash.
+  * Stockage des données.
+  * Technologie blockchain.
+* Administration :
+  * L'administrateur peut, si non respect des règles d'utilisation, suspendre l'activité d'un compte.
 
 
 ## Stack technique
