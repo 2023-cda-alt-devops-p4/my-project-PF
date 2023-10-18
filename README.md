@@ -59,7 +59,7 @@ Dans une version plus aboutie, la plateforme pourrait se transformer en market p
 
 ## Expression des besoins
 
-### Context :
+### Contexte :
 * Projet de fin de formation CDA
 * Individuelle, collaboration avec la promo, formateurs
 * Ressources : Ordinateur pro, suite JetBrains, formations en ligne, ChatGPT, internet en général...
@@ -134,7 +134,7 @@ L'objectif de LicenSync est de permettre aux artistes indépendants de protéger
   * Tests d'acceptance : Selenium, Cypress
   * Tests de performance : Appache JMeter
   * Tests de sécurité : OWASP ZAP
-  * Automatisation : xUnit, Jest...
+  * Automatisation : xUnit, Jest, Jenkins...
 
 
 ## Diagramme d'architecture
